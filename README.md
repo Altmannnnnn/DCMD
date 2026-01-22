@@ -182,17 +182,17 @@ Our method achieves state-of-the-art results on the MVTec 3D-AD benchmark, signi
 **TABLE I: Anomaly Detection (I-AUROC) on MVTec 3D-AD**
 *DCMD achieves the highest mean I-AUROC of 97.5%.*
 
-<img width="100%" alt="Table I Results" src="image_6679e7.png" />
+<img width="1113" height="483" alt="FIG2" src="https://github.com/user-attachments/assets/7f31e21f-74de-4e3d-ace6-8dfc80622856" />
 
 **TABLE II: Per-Region Overlap (PRO) on MVTec 3D-AD**
 *DCMD demonstrates superior localization performance with a mean PRO of 98.5%.*
 
-<img width="100%" alt="Table II Results" src="image_6679cd.png" />
+<img width="1109" height="306" alt="FIG3" src="https://github.com/user-attachments/assets/79c660f6-f915-4bd6-bee5-8201a428872c" />
 
 **TABLE III: Anomaly Detection (I-AUROC) on Eyecandies**
 *DCMD demonstrates robust performance on complex datasets.*
 
-<img width="100%" alt="Table III Results" src="image_6679c7.png" />
+<img width="1098" height="541" alt="FIG4" src="https://github.com/user-attachments/assets/7d9de37d-a0c5-4abc-ba38-3fbecf5e67d0" />
 
 ## Related Resources
 
