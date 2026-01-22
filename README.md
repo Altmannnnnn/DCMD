@@ -5,7 +5,12 @@
 
 ## Overview
 
-PAGMFR (Pseudo-Anomaly Generation and Multi-scale Feature Reconstruction) is an industrial image anomaly detection method that generates pseudo-anomaly samples and combines multi-scale feature reconstruction. The method adaptively generates pseudo-anomalies for both texture and object categories, and detects real anomalies by comparing differences between normal and abnormal feature reconstruction.
+**DCMD** (Dynamic Cross-Modal Distillation) is a novel multimodal anomaly detection framework designed to address the challenges of sensor failures and resource constraints in industrial environments. Unlike traditional fusion-based methods that assume full modality availability, DCMD integrates a **Modality Confidence Estimation (MCE)** module and a **Partial Modality Compensator (PMC)** into a dual-teacher–dual-student distillation framework.
+
+Key features include:
+* **Dynamic Adaptation:** Dynamically assesses modality quality to adjust fusion weights.
+* **Bidirectional Distillation:** Enables symmetric and equitable knowledge exchange between RGB and Depth/Geometry modalities.
+* **Modality Compensation:** Effectively restores features in partially missing or degraded modalities using cross-modal attention.
 
 ## Quick Start
 
