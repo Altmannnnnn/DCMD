@@ -223,7 +223,6 @@ DCMD is suitable for research in:
 * If the confidence module oscillates, try lowering the learning rate for the MCE sub-network initially.
 
 
-
 ```
 
 ```
