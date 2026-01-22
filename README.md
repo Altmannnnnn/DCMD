@@ -32,8 +32,8 @@ pip install numpy==1.21.6 scipy==1.7.3 matplotlib==3.5.3 scikit-image==0.19.3
 pip install pillow==9.1.1 tqdm==4.64.1 pandas==1.3.5 opencv-python==4.6.0.66
 pip install scikit-learn==1.0.2
 
-# PAGMFR specific dependencies
-pip install noise  # For Perlin noise generation
+# DCMD specific dependencies
+pip install noise  # For noise generation if needed
 ```
 
 ### Data Preparation
