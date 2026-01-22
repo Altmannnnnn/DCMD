@@ -1,7 +1,7 @@
 # <p align=center> Dynamic Cross-Modal Distillation with Modality Compensation for Multimodal Anomaly Detection </p>
 #### Kaiyue Wang, Lu Zhang, Jieru Chi, Chenglizhao Chen, Teng Yu</sup>
 
-<img width="11035" height="5782" alt="FIG01" src="https://github.com/user-attachments/assets/fe0a3e2e-ee14-4835-b351-e421ce334a9e" />
+<img width="1262" height="735" alt="FIG1" src="https://github.com/user-attachments/assets/d1a2134f-977f-4632-ae7a-528fdecbe36f" />
 
 ## Overview
 
