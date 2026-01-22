@@ -177,7 +177,7 @@ self.depth_backbone = models.wide_resnet50_2(pretrained=True)
 
 ### MVTec 3D-AD Dataset Performance
 
-Our method achieves state-of-the-art results on the MVTec 3D-AD benchmark, significantly outperforming existing fusion-based methods in both detection (I-AUROC) and localization (PRO) metrics.
+Our method achieves state-of-the-art results on the MVTec 3D-AD benchmark, significantly outperforming existing fusion-based methods in both detection (I-AUROC and P-AUROC) and localization (PRO) metrics.
 
 **TABLE I: Anomaly Detection (I-AUROC) on MVTec 3D-AD**
 *DCMD achieves the highest mean I-AUROC of 97.5%.*
